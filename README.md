@@ -2,7 +2,7 @@
 
 ## 13주차 과제
 * 13am
-<img width="" height="" src="./Png/13am.PNG"></img>
+<img width="" height="" src="./13am.PNG"></img>
 * 13ma
 <img width="" height="" src="./Png/13ma1.PNG"></img>
 <img width="" height="" src="./Png/13ma2.PNG"></img>
